@@ -206,7 +206,7 @@ body::after {
 
 /* Responsive CSS */
 
-@media (min-width: 1050px) {
+@media (min-width: 1150px) {
 
     body {
         display: flex;
