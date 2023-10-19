@@ -1,1 +1,1 @@
-![scrnli_18_10_2023-23-36-47](https://github.com/JPougano/social-proof-class/assets/87842758/4437fede-143b-4257-8a46-6e302ba091db)
+![scrnli_19_10_2023-00-07-00](https://github.com/JPougano/social-proof-class/assets/87842758/a20788e2-ae4d-452d-83c9-5d6e956565be)
