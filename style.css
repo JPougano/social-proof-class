@@ -52,9 +52,6 @@
 
 body {
     position: relative;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     height: 100vh;
 }
 
@@ -210,6 +207,12 @@ body::after {
 /* Responsive CSS */
 
 @media (min-width: 1050px) {
+
+    body {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
 
     body::before {
         content: "";
